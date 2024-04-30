@@ -1,0 +1,57 @@
+.amita-regular {
+    font-family: "Amita", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.amita-bold {
+    font-family: "Amita", serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+body{
+    background-color: #000000 !important;
+    font-family: 'amita',sans-serif;
+    /*background-image: url(../img/fondo.jpg);*/
+}
+
+.titulo{
+    text-align: center;
+}
+
+.titulo h1{
+    color: #202020;
+    font-size: 65px;
+    margin-bottom: 70px;
+}
+
+/*.cajas{
+    width: 100%;
+    text-align: center;
+    /*margin-top: 180px;*/
+
+.card{padding-right: 0px !important;
+    padding-left: 0px !important;}
+.cajaIngredientes{
+    background-color:  #000000 !important;
+    text-align: left;
+}
+
+.imagenHamburguesa{
+    width: 300px;
+    height: 300px;
+}
+
+
+.alineacionIngredientes{text-align: left; color: #FFD100;}
+
+
+/*apolo cheese*/
+.cajaApolo{margin-top: 75px;}
+.titulodehamburguesa{color: #202020;}
+.titulo h1 a{color: #202020}
+
+
+
+
